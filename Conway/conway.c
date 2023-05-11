@@ -5,7 +5,7 @@
 
 #define N 20
 #define MAXITERS 200
-
+// PROFESSOR'S SOLUTION/CODE: 
 int main(int argc, char* argv[])
 {
 	int i, j, neighs;
